@@ -1,18 +1,15 @@
-## Visual Computing Slides -- Shaders
+## Colombia-4.0
+### Metodología basada en git para cursos universitarios
 
-Part of the *Visual Computing* course given at [National University of Colombia](http://www.disi.unal.edu.co/) by [Jean Pierre Charalambos](http://otrolado.info) and [Andres Colubri](http://andrescolubri.net/).
+By [Jean Pierre Charalambos](https://github.com/nakednous), [Universidad Nacional de Colombia, Departamento de Ingeniería de Sistemas e Industria;](https://ingenieria.bogota.unal.edu.co/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial.html).
 
 Powered by [reveal](https://github.com/hakimel/reveal.js).
-
-Made possible thanks to... 
-
-<!--- a long list of students and links to their pages. To come ;) -->
 
 ## Installation
 
  ```sh
- $ git clone https://github.com/VisualComputing/Shaders.git
- $ cd Shaders
+ $ git clone https://github.com/NakedNouse/Colombia-4.0
+ $ cd Colombia-4.0
  $ git checkout gh-pages
  ```
 
