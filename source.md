@@ -23,7 +23,7 @@ H:
 
 [Jean Pierre Charalambos](https://github.com/nakednous)<br/>
 [Universidad Nacional de Colombia](https://ingenieria.bogota.unal.edu.co/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial.html)<br/>
-(https://nakednous.github.io/Colombia-4.0)[https://nakednous.github.io/Colombia-4.0]
+[https://nakednous.github.io/Colombia-4.0](https://nakednous.github.io/Colombia-4.0)
 
 H:
 
