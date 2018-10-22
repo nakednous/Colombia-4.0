@@ -23,6 +23,7 @@ H:
 
 [Jean Pierre Charalambos](https://github.com/nakednous)
 [Universidad Nacional de Colombia](https://ingenieria.bogota.unal.edu.co/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial.html)
+(https://nakednous.github.io/Colombia-4.0)[https://nakednous.github.io/Colombia-4.0]
 
 H:
 
@@ -36,14 +37,54 @@ H:
 H:
 
 ## Introducción
+### Plataformas de aprendizaje en línea
+
+1. 1960's [Joseph_Beuys](https://en.wikipedia.org/wiki/Joseph_Beuys) -> [Free International University](https://en.wikipedia.org/wiki/Free_International_University)
+<!-- .element: class="fragment" data-fragment-index="1"-->
+2. 1990's [Recursos educativos abiertos](https://en.wikipedia.org/wiki/Open_educational_resources), _conocimiento abierto_, _código abierto_, ...
+    * [MIT OpenCourseWare](https://en.wikipedia.org/wiki/MIT_OpenCourseWare)
+<!-- .element: class="fragment" data-fragment-index="2"-->
+3. 2010's Iniciativas comerciales
+    * [Udacity](https://en.wikipedia.org/wiki/Udacity) -> [MOOC's](https://en.wikipedia.org/wiki/Massive_open_online_course)
+    * [Coursera](https://en.wikipedia.org/wiki/Coursera)
+<!-- .element: class="fragment" data-fragment-index="3"-->
+
+V:
+
+## Introducción
+### Idea
+
+> Emplear repositorios de acceso libre para desarrollar los materiales de los cursos de manera colaborativa
+
+Ventajas:
+
+V:
+
+## Introducción
+### Herramientas
+
+1. [git](https://en.wikipedia.org/wiki/Git)
+2. [staticgen](https://www.staticgen.com/) -> [jekyll](https://jekyllrb.com/)
+3. [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+4. [Markdown](https://en.wikipedia.org/wiki/Markdown)
+5. [MathJax](https://en.wikipedia.org/wiki/MathJax)
 
 H:
 
 ## Recursos
 
+1. Web
+2. Talleres
+3. Presentaciones
+4. Libros
+5. Software
+
 H:
 
 ## Resultados
+
+1. [Programación Orientada a Objetos](https://objetos.github.io/)
+2. [Computación Visual](https://visualcomputing.github.io/)
 
 H:
 
@@ -51,4 +92,4 @@ H:
 
 H:
 
-## References
+## Referencias
