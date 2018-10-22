@@ -19,38 +19,35 @@
 
 H:
 
-## SHADERS IN PROCESSING
+## Metodología basada en git para cursos universitarios
 
-Jean Pierre Charalambos
+[Jean Pierre Charalambos](https://github.com/nakednous)
+[Universidad Nacional de Colombia](https://ingenieria.bogota.unal.edu.co/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial.html)
 
 H:
 
-## Contents
+## Contenido
 
-1. Introduction
-<!-- .element: class="fragment" data-fragment-index="1"-->
-2. Shader design patterns
-<!-- .element: class="fragment" data-fragment-index="1"-->
-3. The chow mein can
-<!-- .element: class="fragment" data-fragment-index="1"-->
-4. Passive transformation shaders
-<!-- .element: class="fragment" data-fragment-index="2"-->
-5. Color shaders
-<!-- .element: class="fragment" data-fragment-index="2"-->
-6. Texture shaders
-<!-- .element: class="fragment" data-fragment-index="2"-->
-7. Light shaders
-<!-- .element: class="fragment" data-fragment-index="2"-->
-8. Convolution filters
-<!-- .element: class="fragment" data-fragment-index="2"-->
-9. Screen filters
-<!-- .element: class="fragment" data-fragment-index="3"-->
-10. Shadertoy
-<!-- .element: class="fragment" data-fragment-index="3"-->
-11. Shaderbase
-<!-- .element: class="fragment" data-fragment-index="3"-->
+1. Introducción
+2. Recursos
+3. Resultados
+4. Conclusiones
 
+H:
 
+## Introducción
+
+H:
+
+## Recursos
+
+H:
+
+## Resultados
+
+H:
+
+## Conclusiones
 
 H:
 
