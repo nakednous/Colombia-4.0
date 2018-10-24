@@ -19,7 +19,7 @@
 
 H:
 
-## Metodología basada en git para cursos universitarios
+## Metodología basada en git para el desarrollo de un curso universitario
 
 [Jean Pierre Charalambos](https://github.com/nakednous)<br/>
 [Universidad Nacional de Colombia](https://ingenieria.bogota.unal.edu.co/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial.html)<br/>
@@ -30,66 +30,101 @@ H:
 ## Contenido
 
 1. Introducción
-2. Recursos
-3. Resultados
-4. Conclusiones
+2. Materiales
+3. Casos de (re)uso
+4. Ejemplo
+5. Conclusiones
 
 H:
 
 ## Introducción
 ### Plataformas de aprendizaje en línea
 
-1. 1960's [Joseph_Beuys](https://en.wikipedia.org/wiki/Joseph_Beuys) -> [Free International University](https://en.wikipedia.org/wiki/Free_International_University)
-<!-- .element: class="fragment" data-fragment-index="1"-->
-2. 1990's [Recursos educativos abiertos](https://en.wikipedia.org/wiki/Open_educational_resources), _conocimiento abierto_, _código abierto_, ...
+* 1960's [Joseph Beuys](https://en.wikipedia.org/wiki/Joseph_Beuys) -> [Free International University](https://en.wikipedia.org/wiki/Free_International_University)
+* 1990's [Recursos educativos abiertos](https://en.wikipedia.org/wiki/Open_educational_resources), "código abierto", "conocimiento abierto", ...
     * [MIT OpenCourseWare](https://en.wikipedia.org/wiki/MIT_OpenCourseWare)
-<!-- .element: class="fragment" data-fragment-index="2"-->
-3. 2010's Iniciativas comerciales
+* 2010's Iniciativas comerciales
     * [Udacity](https://en.wikipedia.org/wiki/Udacity) -> [MOOC's](https://en.wikipedia.org/wiki/Massive_open_online_course)
     * [Coursera](https://en.wikipedia.org/wiki/Coursera)
-<!-- .element: class="fragment" data-fragment-index="3"-->
 
 V:
 
 ## Introducción
 ### Idea
 
-> Emplear repositorios de acceso libre para desarrollar los materiales de los cursos de manera colaborativa
+> Emplear repositorios de acceso libre para desarrollar los materiales de un curso universitario de manera colaborativa
 
 Ventajas:
+
+<li class="fragment"> Constante evolución de los cursos
+<li class="fragment"> Pedagogía activa: Promueve el envolvimiento de los estudiantes
+<li class="fragment"> Abierto a las colaboraciones externas
+<li class="fragment"> Abierto al escritunio público
 
 V:
 
 ## Introducción
-### Herramientas
+### Idea
 
-1. [git](https://en.wikipedia.org/wiki/Git)
-2. [staticgen](https://www.staticgen.com/) -> [jekyll](https://jekyllrb.com/)
-3. [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-4. [Markdown](https://en.wikipedia.org/wiki/Markdown)
-5. [MathJax](https://en.wikipedia.org/wiki/MathJax)
+> Emplear repositorios de acceso libre para desarrollar los materiales de un curso universitario de manera colaborativa
 
-H:
+Desafíos:
 
-## Recursos
-
-1. Web
-2. Talleres
-3. Presentaciones
-4. Libros
-5. Software
+<li class="fragment"> Repensar roles
+<li class="fragment"> Trascender las calificaciones
 
 H:
 
-## Resultados
+## Materiales
 
-1. [Programación Orientada a Objetos](https://objetos.github.io/)
-2. [Computación Visual](https://visualcomputing.github.io/)
+<li class="fragment"> Web
+<li class="fragment"> Talleres
+<li class="fragment"> Presentaciones
+<li class="fragment"> Libros
+<li class="fragment"> Software
+
+V:
+
+## Materiales
+### Herramientas libres
+
+<li class="fragment"> [git](https://en.wikipedia.org/wiki/Git)
+<li class="fragment"> [staticgen](https://www.staticgen.com/) -> [jekyll](https://jekyllrb.com/)
+<li class="fragment"> [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+<li class="fragment"> [Markdown](https://en.wikipedia.org/wiki/Markdown)
+<li class="fragment"> [MathJax](https://en.wikipedia.org/wiki/MathJax)
+
+H:
+
+## Casos de (re)uso
+
+<li class="fragment"> Materiales para _realizar_ la materia -> Aprendizaje pasivo
+<li class="fragment"> Materiales para _desarrollar_ -> Aprendizaje activo (investigación y desarrollo) [all-contributors](https://github.com/kentcdodds/all-contributors)
+<li class="fragment"> Materiales para que terceros _ofrezcan_ el curso
+<li class="fragment"> Colaboraciones externas
+
+H:
+
+## Ejemplo
+### [Computación Visual](https://visualcomputing.github.io/)
+
+> Todos los materiales se encuentran en el grupo de github: [https://github.com/VisualComputing](https://github.com/VisualComputing)
+
+V:
+
+## Ejemplo
+### Just Cause 2 visualization, con Jim Blackhurst -- Square Enix
+
+<iframe width="854" height="510" src="//www.youtube.com/embed/hEoxaGkNcrg" frameborder="0" allowfullscreen></iframe>
 
 H:
 
 ## Conclusiones
 
+<li class="fragment"> Apuesta por abrir los recursos de las materias universitarias
+<li class="fragment"> Ventajas: activo, abierto al escrutinio, colaborativo
+<li class="fragment"> Desafíos: repensar roles, *atribución* en vez de calificación
+
 H:
 
-## Referencias
+Gracias!
