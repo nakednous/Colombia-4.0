@@ -38,16 +38,16 @@ H:
 H:
 
 ## Introducción
-### Plataformas de aprendizaje en línea
+### Historia de la producción de materiales académicos
 
-* 1960's [Joseph Beuys](https://en.wikipedia.org/wiki/Joseph_Beuys) -> [Free International University](https://en.wikipedia.org/wiki/Free_International_University)
-* 1990's [Recursos educativos abiertos](https://en.wikipedia.org/wiki/Open_educational_resources), "código abierto", "conocimiento abierto", ...
-    * [MIT OpenCourseWare](https://en.wikipedia.org/wiki/MIT_OpenCourseWare)
-* 2010's Iniciativas comerciales
-    * [Udacity](https://en.wikipedia.org/wiki/Udacity) -> [MOOC's](https://en.wikipedia.org/wiki/Massive_open_online_course)
-    * [Coursera](https://en.wikipedia.org/wiki/Coursera)
+* Siglo XI: Universidad de Boloña <!-- .element: class="fragment" data-fragment-index="1"-->
+* Siglo XV: Imprenta <!-- .element: class="fragment" data-fragment-index="2"-->
+* Siglo XX y XXI: Internet y Software libre <!-- .element: class="fragment" data-fragment-index="3"-->
+    * [Udacity](https://en.wikipedia.org/wiki/Udacity) <!-- .element: class="fragment" data-fragment-index="4"-->
+    * [Coursera](https://en.wikipedia.org/wiki/Coursera) <!-- .element: class="fragment" data-fragment-index="5"-->
+    * [MIT OpenCourseWare](https://en.wikipedia.org/wiki/MIT_OpenCourseWare) <!-- .element: class="fragment" data-fragment-index="6"-->
 
-V:
+V::
 
 ## Introducción
 ### Idea
@@ -61,7 +61,7 @@ Ventajas:
 <li class="fragment"> Abierto a las colaboraciones externas
 <li class="fragment"> Abierto al escritunio público
 
-V:
+V::
 
 ## Introducción
 ### Idea
@@ -83,7 +83,7 @@ H:
 <li class="fragment"> Libros
 <li class="fragment"> Software
 
-V:
+V::
 
 ## Materiales
 ### Herramientas libres
@@ -110,7 +110,7 @@ H:
 
 > Todos los materiales se encuentran en el grupo de github: [https://github.com/VisualComputing](https://github.com/VisualComputing)
 
-V:
+V::
 
 ## Ejemplo
 ### Just Cause 2 visualization, con Jim Blackhurst -- Square Enix
